@@ -1,0 +1,7 @@
+pandas
+yfinance
+numpy
+sqlite3       # Built-in, but mention for clarity
+cvxpy         # For convex optimization (MPT, Sharpe Ratio)
+scipy
+matplotlib    # For performance plots
