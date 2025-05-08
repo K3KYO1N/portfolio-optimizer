@@ -1,1 +1,5 @@
-
+date,symbol,action,quantity,price
+2024-01-01,AAPL,buy,10,150.0
+2024-01-03,GOOGL,buy,5,2800.0
+2024-01-10,AAPL,sell,3,155.0
+2024-01-15,GOOGL,sell,2,2900.0
